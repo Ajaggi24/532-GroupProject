@@ -1,0 +1,6 @@
+config,target_sparsity,actual_sparsity,latency_ms,latency_std_ms,cv_pct,model_size_mb,peak_memory_mb,accuracy_pct
+Pruned_0pct,0.0,0.0,595.959,14.622,2.45,42.7,44.162,93.72
+Pruned_25pct,0.25,0.25,642.467,23.001,3.58,42.701,44.162,93.74
+Pruned_50pct,0.5,0.5,648.285,13.91,2.15,42.701,44.162,93.51
+Pruned_75pct,0.75,0.75,642.341,15.745,2.45,42.701,44.162,88.25
+Pruned_90pct,0.9,0.9,631.462,16.071,2.54,42.701,44.162,10.04
