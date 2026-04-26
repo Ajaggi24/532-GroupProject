@@ -1,0 +1,3 @@
+config,dtype,latency_ms,latency_std_ms,cv_pct,model_size_mb,peak_memory_mb,accuracy_pct
+FP32_Baseline,float32,587.141,13.672,2.33,42.7,44.162,93.72
+INT8_Weight_Only,int8,606.271,10.509,1.73,10.721,44.162,93.7

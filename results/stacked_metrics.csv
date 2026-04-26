@@ -1,0 +1,2 @@
+config,latency_ms,latency_std_ms,cv_pct,model_size_mb,peak_memory_mb,accuracy_pct
+Pruned50pct_INT8,601.166,18.977,3.16,10.721,44.162,93.54
