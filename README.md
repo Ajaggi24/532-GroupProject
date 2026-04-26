@@ -62,9 +62,7 @@ source resnet_comp_benchmark/bin/activate      # macOS/Linux
 ### 2. Install dependencies
 
 ```bash
-pip install torch torchvision
-pip install torchao
-pip install pandas matplotlib
+pip install -r requirements.txt
 ```
 
 > **Note for macOS:** PyTorch will use the `qnnpack` backend for quantization.
